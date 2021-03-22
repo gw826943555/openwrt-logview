@@ -1,7 +1,7 @@
 {
 	"admin/status/logview": {
 		"title": "Logs",
-		"order": 95,
+		"order": 99,
 		"action": {
 			"type": "view",
 			"path": "status/logview"
